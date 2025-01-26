@@ -15,6 +15,7 @@ public class LMS {
         // Tests (to be removed)
         Patron jim = TestPatron.testCon();
         TestPatron.testGetSet(jim);
-        TestPatron.testDelete(jim);
+        //TestPatron.testDelete(jim);
+        TestPatron.testPrintObject(jim);
     }
 }

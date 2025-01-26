@@ -70,6 +70,6 @@ public class TestPatron {
      * purpose: test printing a Patron object
      */
     public static void testPrintObject(Patron patron) {
-
+        patron.printDetails();
     }
 }
