@@ -1,3 +1,11 @@
+/**
+ * Jacob Whitney
+ * Software Development I
+ * January 26, 2025
+ * Patron.java
+ * Creates and manages patron data, like ID,
+ * name, address, and fines.
+ */
 public class Patron {
     // Attributes
     private String id;
@@ -44,5 +52,17 @@ public class Patron {
 
     public void setFines(double fines) {
         this.fines = fines;
+    }
+
+    // Custom Methods
+
+    /**
+     * method: printDetails
+     * parameters: none
+     * return: none
+     *  purpose: print details of a Patron object
+     */
+    public void printDetails() {
+
     }
 }
