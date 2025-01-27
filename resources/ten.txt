@@ -1,0 +1,10 @@
+1234567-John Smith-123 Main St, Springfield, IL-45
+2345678-Jane Doe-456 Elm St, Madison, WI-0
+3456789-Michael Brown-789 Oak St, Austin, TX-120.5
+4567890-Emily Johnson-321 Pine St, Denver, CO-250
+5678901-David Lee-654 Cedar St, Portland, OR-75.09
+6789012-Sarah Wilson-987 Birch St, Seattle, WA-30
+7890123-Chris Taylor-147 Maple St, Boston, MA-200
+8901234-Lisa Martinez-258 Walnut St, Phoenix, AZ-90
+9012345-Kevin Garcia-369 Cherry St, Miami, FL-15.25
+0123456-Amy Clark-741 Chestnut St, Columbus, OH-0
