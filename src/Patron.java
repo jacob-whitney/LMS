@@ -56,24 +56,12 @@ public class Patron {
 
     // Custom Methods
     /**
-     * method: formatFines
-     * parameters: none
-     * return: none
-     * purpose: format fines value to print as dollar value
-     */
-    public String formatFines() {
-        double round = Math.round(fines * 100.0) / 100.0;
-        return "$" + round;
-    }
-
-    /**
      * method: printDetails
      * parameters: none
      * return: none
      * purpose: print details of a Patron object
      */
     public void printDetails() {
-        String formatFines = formatFines();
-        System.out.println(id + " | " + name + " | " + address + " | " + formatFines);
+        System.out.println(id + "-" + name + "-" + address + "-" + fines);
     }
 }
